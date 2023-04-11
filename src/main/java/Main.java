@@ -1,5 +1,7 @@
-package org.example;
+import sort.CocktailSort;
+import sort.QuickSort;
 
+import java.util.Arrays;
 
 public class Main {
 
